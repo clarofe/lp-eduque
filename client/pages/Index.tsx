@@ -120,7 +120,7 @@ export default function Index() {
 
             {/* Form */}
             <div className="flex-1 max-w-md">
-              <form onSubmit={handleSubmit} className="space-y-6">
+              <form onSubmit={handleSubmit} className="space-y-4 sm:space-y-6">
                 <div>
                   <label className="block text-black text-sm font-medium mb-2">
                     Nome Completo
