@@ -66,7 +66,7 @@ export default function Index() {
       </div>
 
       {/* Content Section */}
-      <div className="container mx-auto px-6 lg:px-24 py-16">
+      <div className="container mx-auto px-4 sm:px-6 lg:px-24 py-12 sm:py-16">
         <div className="flex flex-col lg:flex-row items-center justify-between gap-12">
           {/* Left Image */}
           <div className="flex-shrink-0 order-2 lg:order-1">
