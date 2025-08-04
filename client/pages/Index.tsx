@@ -240,8 +240,8 @@ export default function Index() {
             </div>
           </div>
           
-          <div className="text-center mt-6">
-            <p className="text-preto-impacto text-lg font-medium">
+          <div className="text-center mt-4 sm:mt-6">
+            <p className="text-preto-impacto text-sm sm:text-base lg:text-lg font-medium">
               2025 TODOS DIREITOS RESERVADOS DESENVOLVIDO POR ESTÚDIO NOH
             </p>
           </div>
