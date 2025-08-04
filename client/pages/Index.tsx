@@ -38,7 +38,7 @@ export default function Index() {
             <div className="space-y-6 sm:space-y-8">
               <div className="space-y-3 sm:space-y-4">
                 <p className="text-verde-energia font-semibold text-base sm:text-lg lg:text-xl">
-                  E-book Gamificação Aplicada em sala de aula
+                  E-book: Gamificação Aplicada em sala de aula
                 </p>
                 <h1 className="text-white font-bold text-xl sm:text-2xl lg:text-4xl leading-tight">
                   Transforme suas aulas em uma aventura e veja o engajamento dos
