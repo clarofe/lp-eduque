@@ -35,20 +35,20 @@ export default function Index() {
             </div>
 
             {/* Hero Content */}
-            <div className="space-y-8">
-              <div className="space-y-4">
-                <p className="text-verde-energia font-semibold text-lg lg:text-xl">
+            <div className="space-y-6 sm:space-y-8">
+              <div className="space-y-3 sm:space-y-4">
+                <p className="text-verde-energia font-semibold text-base sm:text-lg lg:text-xl">
                   E-book Gamificação Aplicada em sala de aula
                 </p>
-                <h1 className="text-white font-bold text-2xl lg:text-4xl leading-tight">
+                <h1 className="text-white font-bold text-xl sm:text-2xl lg:text-4xl leading-tight">
                   Transforme suas aulas em uma aventura e veja o engajamento dos seus alunos decolar.
                 </h1>
-                <p className="text-white text-base lg:text-lg font-medium leading-relaxed">
+                <p className="text-white text-sm sm:text-base lg:text-lg font-medium leading-relaxed">
                   Baixe gratuitamente nosso guia gratuito de Gamificação e descubra técnicas f��ceis de aplicar em qualquer matéria.
                 </p>
               </div>
               
-              <button className="bg-roxo-inovacao text-verde-energia font-bold px-6 py-3 rounded-full hover:opacity-90 transition-opacity">
+              <button className="bg-roxo-inovacao text-verde-energia font-bold px-6 py-3 text-sm sm:text-base rounded-full hover:opacity-90 transition-opacity w-full sm:w-auto">
                 QUERO GARANTIR O MEU
               </button>
             </div>
