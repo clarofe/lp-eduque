@@ -26,11 +26,11 @@ export default function Index() {
           {/* Left Content */}
           <div className="flex-1 max-w-2xl text-center lg:text-left order-2 lg:order-1">
             {/* Logo */}
-            <div className="mb-12">
-              <img 
+            <div className="mb-8 sm:mb-12">
+              <img
                 src="https://api.builder.io/api/v1/image/assets/TEMP/482589099ce5474d17384d2810a979d0fdacad48?width=322"
                 alt="Eduque Logo"
-                className="h-15 w-auto"
+                className="h-12 sm:h-15 w-auto mx-auto lg:mx-0"
               />
             </div>
 
