@@ -46,7 +46,7 @@ export default function Index() {
                 </h1>
                 <p className="text-white text-sm sm:text-base lg:text-lg font-medium leading-relaxed">
                   Baixe gratuitamente nosso guia gratuito de Gamificação e
-                  descubra técnicas f��ceis de aplicar em qualquer matéria.
+                  descubra técnicas fáceis de aplicar em qualquer matéria.
                 </p>
               </div>
 
