@@ -103,8 +103,8 @@ export default function Index() {
 
       {/* Form Section */}
       <div className="container mx-auto px-4 sm:px-6 lg:px-24 py-12 sm:py-16">
-        <div className="bg-branco-classico rounded-2xl p-6 sm:p-8 lg:p-12">
-          <div className="flex flex-col lg:flex-row gap-8 lg:gap-12">
+        <div className="bg-branco-classico rounded-2xl p-6 sm:p-8 lg:p-12 max-w-6xl mx-auto">
+          <div className="flex flex-col lg:flex-row gap-8 lg:gap-12 items-center justify-center">
             {/* Left Content */}
             <div className="flex-1 max-w-xl text-center lg:text-left">
               <p className="text-roxo-inovacao font-semibold text-base sm:text-lg lg:text-xl mb-3 sm:mb-4">
