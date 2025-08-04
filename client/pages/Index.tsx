@@ -106,14 +106,14 @@ export default function Index() {
         <div className="bg-branco-classico rounded-2xl p-6 sm:p-8 lg:p-12">
           <div className="flex flex-col lg:flex-row gap-8 lg:gap-12">
             {/* Left Content */}
-            <div className="flex-1 max-w-xl">
-              <p className="text-roxo-inovacao font-semibold text-lg lg:text-xl mb-4">
+            <div className="flex-1 max-w-xl text-center lg:text-left">
+              <p className="text-roxo-inovacao font-semibold text-base sm:text-lg lg:text-xl mb-3 sm:mb-4">
                 Garanta o seu E-Book gratuito
               </p>
-              <h3 className="text-preto-impacto font-bold text-2xl lg:text-4xl leading-tight mb-6">
+              <h3 className="text-preto-impacto font-bold text-xl sm:text-2xl lg:text-4xl leading-tight mb-4 sm:mb-6">
                 Pronto para destravar o potencial das suas aulas?
               </h3>
-              <p className="text-preto-impacto text-lg lg:text-2xl leading-relaxed">
+              <p className="text-preto-impacto text-base sm:text-lg lg:text-2xl leading-relaxed">
                 Baixe o guia agora e seja o primeiro a saber da ferramenta que vai revolucionar a forma como você planeja. Ao se inscrever, você entra na nossa lista exclusiva para o lançamento do Portal Eduque.
               </p>
             </div>
