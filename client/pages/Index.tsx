@@ -211,9 +211,9 @@ export default function Index() {
       </div>
 
       {/* Footer */}
-      <footer className="bg-verde-energia py-8">
-        <div className="container mx-auto px-6 lg:px-24">
-          <div className="flex flex-col lg:flex-row items-center justify-between gap-6">
+      <footer className="bg-verde-energia py-6 sm:py-8">
+        <div className="container mx-auto px-4 sm:px-6 lg:px-24">
+          <div className="flex flex-col lg:flex-row items-center justify-between gap-4 sm:gap-6">
             {/* Logo */}
             <img 
               src="https://api.builder.io/api/v1/image/assets/TEMP/c141d3e24ef0552c191896bb254447e9f171bf29?width=272"
