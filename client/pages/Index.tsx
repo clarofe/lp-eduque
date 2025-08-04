@@ -67,23 +67,23 @@ export default function Index() {
 
       {/* Content Section */}
       <div className="container mx-auto px-4 sm:px-6 lg:px-24 py-12 sm:py-16">
-        <div className="flex flex-col lg:flex-row items-center justify-between gap-12">
+        <div className="flex flex-col lg:flex-row items-center justify-between gap-8 lg:gap-12">
           {/* Left Image */}
           <div className="flex-shrink-0 order-2 lg:order-1">
-            <img 
+            <img
               src="https://api.builder.io/api/v1/image/assets/TEMP/24fcafdc6edc9baa86ff2db2a967e372c36f243d?width=840"
               alt="Aula de matemática com voluntários"
-              className="w-80 lg:w-[420px] h-auto rounded-lg"
+              className="w-full max-w-sm sm:w-80 lg:w-[420px] h-auto rounded-lg mx-auto"
             />
           </div>
 
           {/* Right Content */}
-          <div className="flex-1 max-w-3xl order-1 lg:order-2">
-            <h2 className="text-branco-classico font-bold text-2xl lg:text-4xl leading-tight mb-6">
+          <div className="flex-1 max-w-3xl order-1 lg:order-2 text-center lg:text-left">
+            <h2 className="text-branco-classico font-bold text-xl sm:text-2xl lg:text-4xl leading-tight mb-4 sm:mb-6">
               Com nosso guia, você vai entender tudo o que precisa para começar a aplicar a Gamificação:
             </h2>
-            
-            <div className="space-y-4 text-branco-classico text-base lg:text-lg leading-relaxed">
+
+            <div className="space-y-3 sm:space-y-4 text-branco-classico text-sm sm:text-base lg:text-lg leading-relaxed">
               <p>
                 <span className="font-bold">O que é Gamificação:</span> Desvende o conceito de forma clara, entendendo a ciência por trás do engajamento e por que ele funciona tão bem na educação.
               </p>
