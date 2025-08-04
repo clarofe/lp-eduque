@@ -55,11 +55,11 @@ export default function Index() {
           </div>
 
           {/* Right Image */}
-          <div className="flex-shrink-0">
-            <img 
+          <div className="flex-shrink-0 order-1 lg:order-2">
+            <img
               src="https://api.builder.io/api/v1/image/assets/TEMP/77b130cb811a194f49194c619f67404a46fc43ce?width=784"
               alt="Mockup do ebook"
-              className="w-80 lg:w-96 h-auto"
+              className="w-64 sm:w-80 lg:w-96 h-auto mx-auto"
             />
           </div>
         </div>
