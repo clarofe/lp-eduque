@@ -21,7 +21,7 @@ export default {
         "branco-classico": "rgb(var(--branco-classico))",
         "cinza-4": "rgb(var(--cinza-4))",
         "cinza-2": "rgb(var(--cinza-2))",
-        "verde": "rgb(var(--verde))",
+        verde: "rgb(var(--verde))",
 
         // Theme colors using brand palette
         border: "rgb(var(--border))",
