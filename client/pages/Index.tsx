@@ -21,7 +21,7 @@ export default function Index() {
   return (
     <div className="min-h-screen bg-preto-impacto">
       {/* Hero Section */}
-      <div className="container mx-auto px-6 lg:px-24 pt-8 pb-16">
+      <div className="container mx-auto px-4 sm:px-6 lg:px-24 pt-6 sm:pt-8 pb-12 sm:pb-16">
         <div className="flex flex-col lg:flex-row items-center justify-between gap-12">
           {/* Left Content */}
           <div className="flex-1 max-w-2xl">
@@ -44,7 +44,7 @@ export default function Index() {
                   Transforme suas aulas em uma aventura e veja o engajamento dos seus alunos decolar.
                 </h1>
                 <p className="text-white text-base lg:text-lg font-medium leading-relaxed">
-                  Baixe gratuitamente nosso guia gratuito de Gamificação e descubra técnicas fáceis de aplicar em qualquer matéria.
+                  Baixe gratuitamente nosso guia gratuito de Gamificação e descubra técnicas f��ceis de aplicar em qualquer matéria.
                 </p>
               </div>
               
@@ -190,7 +190,7 @@ export default function Index() {
                     className="mt-1 w-4 h-4 border border-cinza-2 rounded-sm"
                   />
                   <label htmlFor="agreeEmails" className="text-preto-impacto text-xs leading-tight">
-                    Estou de acordo em receber e-mails do Portal Eduque com conteúdos educacionais, notícias e informações sobre a plataforma.
+                    Estou de acordo em receber e-mails do Portal Eduque com conteúdos educacionais, not��cias e informações sobre a plataforma.
                   </label>
                 </div>
 
